@@ -1,0 +1,75 @@
+/* original styling
+body {
+  background-color: lightblue;
+}
+*/
+
+/* new style */
+/* body { */
+  /* background-color: #D8D8D8; */
+  /* position: fixed; */
+  /* top: 0; */
+  /* left: 0; */
+  /* z-index: -1; */
+  /* width: 100vw; */
+  /* height: 100vh; */
+  /* padding: 0; */
+  /* margin: 0; */
+/* } */
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* canvas { */
+            /* //position: center; */
+            /* width: %100 !important; */
+            /* height: %100 !important; */
+/* } */
+
+
+/* html, body { */
+  /* width:  100%; */
+  /* height: 100%; */
+  /* margin: 0; */
+/* } */
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+
+
+/* html, body { */
+  /* height: 100%; */
+/* } */
+
+/* body { */
+  /* margin: 0; */
+  /* display: flex; */
+
+  /* This centers our sketch horizontally. */
+  /* justify-content: center; */
+
+  /* This centers our sketch vertically. */
+  /* align-items: center; */
+/* } */
+
+
+	    
+        /* body { */
+            /* margin: 0; */
+            /* padding: 0; */
+            /* background-color: ivory; */
+        /* } */
+
+        /* #defaultCanvas0 { */
+            /* <!-- position: absolute; --> */
+            /* width: 800; */
+            /* height: 800; */
+            /* border: 1px solid red; */
+        /* } */
+    
